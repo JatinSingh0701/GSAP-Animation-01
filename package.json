@@ -1,8 +1,6 @@
 {
   "dependencies": {
-    "scripts": {
-      "start": "node index.js"
-    },
+   
     "gsap": "^3.12.2"
   }
 }
